@@ -1,0 +1,9 @@
+- 👋 Hello, I’m @Chrematist
+- 👀 I’m interested in 
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+This is my personal repository containing some of my projects I get up to in my spare time.
+--->
